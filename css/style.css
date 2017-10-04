@@ -1,5 +1,19 @@
+/* COLORS
+PINK: #F8B0FF
+PURPLE: #AC79E8
+LIGHT PURPLE: #A9A8FF
+BLUE: #3680E8
+TEAL: #9BF0FF
+*/
+
 body {
     
     background-color: #fff;
 }
-
+#header {
+    margin: 0;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    transform: translateY(50%);
+}
