@@ -16,6 +16,7 @@ body {
     font-family: 'Lato', sans-serif;
     position: relative;
     transform: translateY(50%);
+    color: #AC79E8;
 }
 
 .nav {
@@ -26,7 +27,10 @@ body {
     border-radius: 50%;
     max-width:200px;
 }
-.img {
-    vertical-align: middle;
-    box-sizing: border-box;
+#aside-right {
+   color: #AC79E8;
+}
+.favorite-sites {
+    margin:0 auto;
+
 }
