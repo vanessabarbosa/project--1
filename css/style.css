@@ -16,7 +16,8 @@ body {
     font-family: 'Lato', sans-serif;
     position: relative;
     transform: translateY(50%);
-    color: #AC79E8;
+    color: #fff;
+    background-color:#AC79E8
 }
 
 .nav {
@@ -26,11 +27,36 @@ body {
 .img {
     border-radius: 50%;
     max-width:200px;
+    margin-left:45%;
+    margin-right: 40%;
+    margin-top: 5%;
 }
 #aside-right {
    color: #AC79E8;
+   margin-left: 80%;
 }
 .favorite-sites {
-    margin:0 auto;
-
+    margin-top: 10%;
+    display: block;
+    vertical-align: right;
+}
+p {
+    margin-right: 30%;
+    color: #AC79E8;
+    margin-left: 30%;
+}
+h2 {
+    color: #AC79E8;
+    margin-left: 45%;
+    margin-right: 40%;
+}
+a {
+    margin-left: 48%;
+}
+.button {
+    color: #A9A8FF;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
 }
