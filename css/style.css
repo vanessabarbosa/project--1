@@ -24,12 +24,8 @@ body {
     text-align: center;
     position:relative;
 }
-.img {
-    border-radius: 50%;
-    max-width:200px;
-    margin-left:45%;
-    margin-right: 40%;
-    margin-top: 5%;
+h {
+    width:px;
 }
 #aside-right {
    color: #AC79E8;
