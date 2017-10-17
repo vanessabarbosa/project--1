@@ -11,7 +11,7 @@ body {
 }
 #header {
     text-align: right;
-    font-family: 'Roboto';
+    font-family: 'Source Code Pro', monospace;
     font-size: 85%;
 }
 
@@ -49,5 +49,14 @@ a {
     cursor: pointer;
 }
 .big-image {
-    width: 100%;
+    width:100%;
+}
+#image {
+    width: 300px;
+}
+#imgs {
+    width:300px;
+}
+#img {
+    width:300px;
 }
