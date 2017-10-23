@@ -9,25 +9,6 @@ TEAL: #9BF0FF
 body {
     background-color: #fff;
 }
-#header {
-    text-align: right;
-    font-family: 'Source Code Pro', monospace;
-    font-size: 85%;
-}
-
-.nav {
-    text-align: center;
-    position:relative;
-}
-#aside-right {
-   color: #AC79E8;
-   margin-left: 80%;
-}
-.favorite-sites {
-    margin-top: 10%;
-    display: block;
-    vertical-align: right;
-}
 p {
     margin-right: 30%;
     color: #AC79E8;
@@ -41,22 +22,28 @@ h2 {
 a {
     margin-left: 48%;
 }
-.button {
+/*.button {
     color: #A9A8FF;
     padding: 16px;
     font-size: 16px;
     border: none;
     cursor: pointer;
-}
+}*/
 .big-image {
     width:100%;
 }
-#image {
-    width: 300px;
+h1 {
+    text-align: right;
+    font-family: 'Source Code Pro', monospace;
 }
-#imgs {
-    width:300px;
+h5 { 
+    font-family: 'Source Code Pro', monospace;
+    font-size: 30px;
 }
-#img {
-    width:300px;
+.modal-body {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+}
+.image {
+    cursor: pointer;
 }
