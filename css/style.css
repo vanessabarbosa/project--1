@@ -24,7 +24,7 @@ a {
     cursor: pointer;
 }*/
 .big-image {
-    max-width:95%;
+    width: 84.3%;
     align-content: space-between;
     border-top: solid 4px black;
 }
@@ -39,4 +39,10 @@ h5 {
 .modal-body {
     font-family: 'Source Code Pro', monospace;
     font-size: 14px;
+}
+p {
+    text-align: left;
+    margin-left: 40px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 23px
 }
